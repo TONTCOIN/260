@@ -1,2 +1,3 @@
 # 260
-TK
+
+Project documentation for the TONTCOIN/260 repository.
